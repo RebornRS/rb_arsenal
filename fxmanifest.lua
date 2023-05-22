@@ -1,10 +1,8 @@
-shared_script '@likizao_ac/client/library.lua'
-
 fx_version 'adamant'
 game 'gta5'
 
 author 'Reborn'
-website "http://site.rebornresources.net"
+website "http://bit.ly/rebornsaves1"
 
 server_scripts{
     "@vrp/lib/utils.lua",
